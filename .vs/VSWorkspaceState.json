@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\vivace",
+    "\\src\\main\\java\\com\\vivace\\rental_api",
+    "\\src\\main\\java\\com\\vivace\\rental_api\\controller",
+    "\\src\\main\\java\\com\\vivace\\rental_api\\repository",
+    "\\src\\main\\java\\com\\vivace\\rental_api\\service"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\vivace\\rental_api\\RentalApiApplication.java",
+  "PreviewInSolutionExplorer": false
+}
